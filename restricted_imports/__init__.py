@@ -1,1 +1,1 @@
-from restricted_imports import RestrictedImportFinder, RestrictedImportLoader
+from .src import RestrictedImportFinder, RestrictedImportLoader
